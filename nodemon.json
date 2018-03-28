@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "imagesTestDir/*",
+    "parsedOutput.json",
+    "results.json",
+    "updates.txt",
+    "results1.json",
+    "tagValues.txt",
+    "tagValuesInt.txt"
+  ]
+}
